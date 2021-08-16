@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html ⚡ lang="id" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -119,5 +117,3 @@ article {
         </div>
     </div>
 </body>
-</html></div>
-</div></div>
