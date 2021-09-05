@@ -78,10 +78,10 @@ article {
                     </div>
                 </div>
                 <h1 style="text-align: center;">Pragamtic Play Indonesia</h1>
-<p><a href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">PRAGMATIC PLAY</a> adalah satu penyediaan permainan kasino seluler dan <a href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">kasino online</a> game terkemuka.Selama bertahun-tahun
-    <a href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">PRAGMATIC PLAY</a> Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru yang inovatif dan menarik bagi para pemain game online di seluruh indonesia.</p>
+<p><a href="https://players96.com/my/registration/402778">PRAGMATIC PLAY</a> adalah satu penyediaan permainan kasino seluler dan <a href="https://players96.com/my/registration/402778">kasino online</a> game terkemuka.Selama bertahun-tahun
+    <a href="https://players96.com/my/registration/402778">PRAGMATIC PLAY</a> Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru yang inovatif dan menarik bagi para pemain game online di seluruh indonesia.</p>
 
-<p>Slot demo pragmatic play meluncurkan produk turnamen slot gratis , yang memmungkinkan  pemain yang suka bermain <a href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">slot pragmatic</a> slot gratis,kesempatan untuk memenabngkan uang tunai nyata.
+<p>Slot demo pragmatic play meluncurkan produk turnamen slot gratis , yang memmungkinkan  pemain yang suka bermain <a href="https://players96.com/my/registration/402778">slot pragmatic</a> slot gratis,kesempatan untuk memenabngkan uang tunai nyata.
     Ada hadiah yang layak dan turnamen reguler, jadi layak untuk di coba. mereka sekarang bahkan memiliki penghasilan bulanan dimana bermain pragmatic play bisa mencapai 5 TRILIUN. </p>
 
 <h2 style="text-align: center;">Agen Pragmatic Play Indonesia</h2>
@@ -103,7 +103,7 @@ article {
     JACPOT BESAR nya akan menjadikan anda sultan PRAGMATIC PLAY !</p>
 
 <h3 style="text-align: center;">Live Kasino Pragmatic Play</h3>
-<p>Pengenalan Pragmatic Play live casino menandai langkah maju yang baru dan menarik untuk pemain live casino indonesia 
+<p>Pengenalan Pragmatic Play <a href="https://players96.com/my/registration/402778">live casino</a> menandai langkah maju yang baru dan menarik untuk pemain <a href="https://players96.com/my/registration/402778">live casino indonesia</a>  
     pemain bisa merasakan pengalaman bermain yang benar-benar unik dyang tersedia dalam desktop dan laptop atau smartphone,table,gadget VR. 
     </p>
 <p>Live Kasino PRAGMATIC PLAY adalah penyedia konten terkemuka untuk industri live games online, 
@@ -113,7 +113,7 @@ article {
         dalam hal live game , kasino indonesia selalu menjadi tempat teratas 
         bergabunglah dengan PLAYERS99 untuk bermain games kasino dan dapatkan hadiah langsung hari ini juga!</p>
               </div>
-			  <center><b><div class="copyright">Copyright &copy; 2020 <a href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">Pragmatic Play</a> | All rights reserved.</div></b></center>
+			  <center><b><div class="copyright">Copyright &copy; 2020 <a href="https://players96.com/my/registration/402778">Pragmatic Play</a> | All rights reserved.</div></b></center>
         </div>
     </div>
 </body>
