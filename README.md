@@ -1,38 +1,80 @@
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>seoyh | Testing</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="seoyh" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Testing" />
+<meta property="og:description" content="Testing" />
+<link rel="canonical" href="https://players99.github.io/seoyh/" />
+<meta property="og:url" content="https://players99.github.io/seoyh/" />
+<meta property="og:site_name" content="seoyh" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="seoyh" />
+<script type="application/ld+json">
+{"description":"Testing","url":"https://players99.github.io/seoyh/","@type":"WebSite","headline":"seoyh","name":"seoyh","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/seoyh/assets/css/style.css?v=6fd8f01d8c9a70bc2d7ed21d6691fb224ac98139">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/seoyh/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+
+      
+
+      <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Agen Pragmatic Play Indonesia </title>
     <meta name="Description" content="PRAGMATIC PLAY adalah satu penyediaan permainan ksino seluler dan oline game terkemuka. selama bertahun-tahun
     PRAGMATIC PLAY Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru." />
-    <meta name="Keywords" content="Pramatic Play Indonesia,Live Kasino Pragmatic Play,Slot Online Indonesia,Jackpot Pragmatic Play Indonesia"/>
-    <meta content="pragmatic" name="author">
-    <link rel="shortcut icon" href="https://i.ibb.co/ScYff3Q/image.png" sizes="16x16">
-    <link rel="canonical" href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">
-    <meta content="index, follow" name="robots">
-    <meta name="geo.placename" content="Jakarta">
-    <meta name="geo.region" content="ID-JK">
-    <meta name="geo.country" content="ID">
-    <meta name="language" content="ID">
-    <meta name="tgn.nation" content="Indonesia">
-    <meta name="rating" content="general">
-    <meta name="copyright" content="Pragmatic Play">
-    <meta property="og:locale" content="id_ID">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/">
-    <meta property="og:title" content="Agen Pragmatic Play Indonesia">
+    <meta name="Keywords" content="Pramatic Play Indonesia,Live Kasino Pragmatic Play,Slot Online Indonesia,Jackpot Pragmatic Play Indonesia" />
+    <meta content="pragmatic" name="author" />
+    <link rel="shortcut icon" href="https://i.ibb.co/ScYff3Q/image.png" sizes="16x16" />
+    <link rel="canonical" href="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/" />
+    <meta content="index, follow" name="robots" />
+    <meta name="geo.placename" content="Jakarta" />
+    <meta name="geo.region" content="ID-JK" />
+    <meta name="geo.country" content="ID" />
+    <meta name="language" content="ID" />
+    <meta name="tgn.nation" content="Indonesia" />
+    <meta name="rating" content="general" />
+    <meta name="copyright" content="Pragmatic Play" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://dharmasraya.bawaslu.go.id/images/assets/pragmatic/" />
+    <meta property="og:title" content="Agen Pragmatic Play Indonesia" />
     <meta property="og:description" content="PRAGMATIC PLAY adalah satu penyediaan permainan ksino seluler dan oline game terkemuka. selama bertahun-tahun
-    PRAGMATIC PLAY Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru">
-    <meta property="og:image" content="https://i.ibb.co/ScYff3Q/image.png">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Agen Pragmatic Play Indonesia">
+    PRAGMATIC PLAY Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru" />
+    <meta property="og:image" content="https://i.ibb.co/ScYff3Q/image.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Agen Pragmatic Play Indonesia" />
     <meta name="twitter:description" content="PRAGMATIC PLAY adalah satu penyediaan permainan ksino seluler dan oline game terkemuka. selama bertahun-tahun
-    PRAGMATIC PLAY Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru">
-    <meta name="twitter:image" content="https://i.ibb.co/ScYff3Q/image.png">
+    PRAGMATIC PLAY Indonesia juga lebih dari 200 permaian slot fantastis yang telah menghadirkan pengalaman permainan baru" />
+    <meta name="twitter:image" content="https://i.ibb.co/ScYff3Q/image.png" />
     <style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
     <style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
     </noscript>
     
-    <script type='text/javascript' src='https://cdn.ampproject.org/v0.js' async=""></script>
+    <script type="text/javascript" src="https://cdn.ampproject.org/v0.js" async=""></script>
     <script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
     <style amp-custom="">
       /*!
@@ -87,33 +129,41 @@ article {
 <h2 style="text-align: center;">Agen Pragmatic Play Indonesia</h2>
 <p>Tempat perjudian yang bertanggung jawab 
     Pragmatic Play berkomitmen untuk memastikan bahwa para pemain menikmati permainannya secara bertanggung jawab, perusahaan mendorong sikap tanggung jawab sossial dalam indrustri perjudian.</p>
-    <p>Pragmatic Play juga menawarkan pemain slot online berbagai jackpot besar besaran , meskipun kami  bukan pembuat multijutawan seperti mega fortunes dan mega moohals di dunia ,kami masih memberi pemain kesempatan untuk memenangkan beberapa hadiah yang mengubah hidupp anda.</p>
+    <p>Pragmatic Play juga menawarkan pemain <a href="https://players96.com/my/registration/402778">slot online</a> berbagai jackpot besar besaran , meskipun kami  bukan pembuat multijutawan seperti mega fortunes dan mega moohals di dunia ,kami masih memberi pemain kesempatan untuk memenangkan beberapa hadiah yang mengubah hidupp anda.</p>
 <h3 style="text-align: center;">Mengapa memainkan Slot Pramatic Play ? </h3>
 <p>Kami menawarkan sejumlah besar slot menarik dengan tema unik dan fitus bonus inovatif, anda selalu ingin mendapatkan pengalaman bermain yang luar biassa saat mengunjungi game online yang di dukung oleh pragmatic play
     karena anda akan miliki banyak permainan fantastis untk di pilih , pragmatic play juga memiliki bonus jackpot jutaan hingga ratusan juta setiap harinya.</p>
 
     
 <h3 style="text-align: center;">Daftar Pragmatic Play Indonesia </h3>
-<p>Apakah anda mencari situs online terpercaya di Indonesia ? PLAYERS99 adalah slot online terpopuler indonesia !!
+<p>Apakah anda mencari situs online terpercaya di Indonesia ? <a href="https://players96.com/my/registration/402778">PLAYERS99</a> adalah slot online terpopuler indonesia !!
     PLAYERS99 memiliki banyak sekali jenis permainan games online pragmatic play, pragmatic play PLAYERS99 juga terdapat berbagi bonus dan jackpot besar di dalam nya 
     Hadiah jackpot mulai dari ratusan ribu hingga milyaran rupiah setiap hari nya.</p>
-<p>Anda pemain setia slot PRAGMATIC PLAY INDONESIA , anda bisa mengunjungi website games online terpercaya dan terpopuler indonesia PLAYERS99 !!
+<p>Anda pemain setia <a href="https://players96.com/my/registration/402778">SLOT PRAGMATIC PLAY INDONESIA</a> , anda bisa mengunjungi website games online terpercaya dan terpopuler indonesia PLAYERS99 !!
     Anda bergabung dengan PLAYERS99 hari ini! , bersiaplah mendapatkan jackpot besar hari ini juga !
     CEPAT SEKARANG ! gabung bersama PRAGMATIC PLAY indonesia  anda akan menemukan hadiah games  PLAYERS99 terbesar yang semua nya sanagt bagus di menangkan 
     JACPOT BESAR nya akan menjadikan anda sultan PRAGMATIC PLAY !</p>
 
 <h3 style="text-align: center;">Live Kasino Pragmatic Play</h3>
-<p>Pengenalan Pragmatic Play <a href="https://players96.com/my/registration/402778">live casino</a> menandai langkah maju yang baru dan menarik untuk pemain <a href="https://players96.com/my/registration/402778">live casino indonesia</a>  
+<p>Pengenalan Pragmatic Play <a href="https://players96.com/my/registration/402778">live casino</a> menandai langkah maju yang baru dan menarik untuk pemain <a href="https://players96.com/my/registration/402778">live casino indonesia</a> 
     pemain bisa merasakan pengalaman bermain yang benar-benar unik dyang tersedia dalam desktop dan laptop atau smartphone,table,gadget VR. 
     </p>
 <p>Live Kasino PRAGMATIC PLAY adalah penyedia konten terkemuka untuk industri live games online, 
     selalu menawarkan produk yg inovatid, teregulasi dan berfokus pada seluler.
     Semangat kami untuk hiburan premium tidak tertandingi , kami berusaha keras untuk menciptakan pengalaman yang paling menarik dan menggugah para pemain kami di berbagai produk termasuk live casino.</p>
     <p>Bermain live casino di pragmatic play menawarkan anda mendapat kesempatan bermain sambil duduk di tempat anda 
-        dalam hal live game , kasino indonesia selalu menjadi tempat teratas 
+        dalam hal live game , <a href="https://players96.com/my/registration/402778">kasino indonesia</a> selalu menjadi tempat teratas 
         bergabunglah dengan PLAYERS99 untuk bermain games kasino dan dapatkan hadiah langsung hari ini juga!</p>
               </div>
 			  <center><b><div class="copyright">Copyright &copy; 2020 <a href="https://players96.com/my/registration/402778">Pragmatic Play</a> | All rights reserved.</div></b></center>
         </div>
     </div>
 </body>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
